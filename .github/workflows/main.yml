@@ -19,7 +19,7 @@ jobs:
         with:
           confluenceBaseUrl: "https://awaysonwatkins.atlassian.net"
           confluenceParentId: "1048578"
-          atlassianUserName: "mariah.lopez2@g.austincc.edu"
+          atlassianUserName: ${{ secrets.CONFLUENCE_EMIAL }}
           atlassianApiToken: ${{ secrets.CONFLUENCE_API_TOKEN }}
           folderToPublish: "docs"
           
