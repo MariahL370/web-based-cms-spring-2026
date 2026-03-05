@@ -22,4 +22,4 @@ jobs:
           atlassianUserName: ${{ secrets.CONFLUENCE_EMAIL }}
           atlassianApiToken: ${{ secrets.CONFLUENCE_API_TOKEN }}
           folderToPublish: "docs/mariah-lopez-publish"
-          
+          configFile: ".markdown-confluence.json"
