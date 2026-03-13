@@ -1,5 +1,5 @@
 ---
-title: Development Server Configuration
+title: Mariah Lopez Development Server Configuration
 author: Mariah Lopez
 status: draft
 audience: developers
