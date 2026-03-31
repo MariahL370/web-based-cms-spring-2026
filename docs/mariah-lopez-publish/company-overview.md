@@ -26,7 +26,17 @@ Acme Cloud includes several tools designed to support teams and developers:
 
 ## Pricing Tiers
 
-Acme Cloud offers several pricing plans based on storage and usage needs:
+Acme Cloud offers several pricing plans based on storage and usage needs.
+
+The chart below provides a quick visual breakdown of our pricing tiers.
+
+```mermaid
+pie showData
+    title Pricing Tier Distribution
+    "Basic ($10/month)" : 40
+    "Pro ($50/month)" : 35
+    "Enterprise (Custom)" : 25
+```
 
 - **Basic** – $10/month with 5 GB of storage  
 - **Pro** – $50/month with 100 GB of storage  
