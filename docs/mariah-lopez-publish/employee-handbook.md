@@ -9,6 +9,19 @@ tags: [hr, onboarding]
 # Employee Handbook
 
 Welcome to the team! This handbook introduces employees to company policies, workplace expectations, and available resources.
+The diagram below shows the basic onboarding and workplace expectations.
+
+```mermaid
+flowchart TD;
+    A[New Employee Joins] --> B[Read Employee Handbook]
+    B --> C[Understand Code of Conduct]
+    C --> D[Follow Workplace Behavior Guidelines]
+    D --> E{Any Issues or Questions?}
+    E -- No --> F[Continue Daily Work]
+    E -- Yes --> G[Contact Manager or HR]
+    G --> F
+```
+This process helps employees understand expectations and where to go for support.
 
 ## Code of Conduct
 
