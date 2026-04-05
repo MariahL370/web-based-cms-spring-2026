@@ -10,6 +10,8 @@ tags: [technical, infrastructure]
 
 This document explains the configuration settings used in the development server environment.
 
+Use these settings to configure the development server environment.
+
 ## Server Settings
 
 The development server uses the following configuration:
@@ -40,8 +42,13 @@ If this occurs, refresh the page to resolve the issue.
 
 ## Running the Server
 
-To start the production server, run the following command:
-npm run start:prod
+Follow these steps to start the server:
+
+1. Open your terminal  
+2. Run: `npm run start:prod`  
+3. Make sure Node.js version 14 or higher is installed  
+
+The server will start using the configuration settings listed above.
 **Requirements:** Node.js version 14 or higher.
 
 ## Server Process Overview
