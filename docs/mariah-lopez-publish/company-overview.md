@@ -6,6 +6,7 @@ audience: customers
 tags: [marketing, product]
 ---
 
+Acme Cloud provides modern cloud solutions designed to support businesses of all sizes.
 # Our Mission
 
 Our mission is to provide reliable cloud solutions that help organizations manage data, collaborate efficiently, and scale their systems with confidence.
