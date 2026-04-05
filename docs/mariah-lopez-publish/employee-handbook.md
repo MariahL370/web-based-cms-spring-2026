@@ -24,10 +24,13 @@ flowchart TD;
 This process helps employees understand expectations and where to go for support.
 
 ## Code of Conduct
+This section explains how employees are expected to behave in the workplace.
+
 
 Employees must treat coworkers, clients, and partners with respect. Harassment, discrimination, or unsafe behavior will not be tolerated.
 
 ## Workplace Behavior
+This section outlines daily expectations for employee behavior and communication.
 
 Employees are expected to:
 
@@ -36,5 +39,6 @@ Employees are expected to:
 - Follow workplace policies and company guidelines
 
 ## Office Guidelines
+This section provides general rules for maintaining shared workspaces.
 
 Employees should keep shared workspaces clean and organized. Be respectful of others when using shared equipment or common areas.
