@@ -43,3 +43,12 @@ If this occurs, refresh the page to resolve the issue.
 To start the production server, run the following command:
 npm run start:prod
 **Requirements:** Node.js version 14 or higher.
+
+## Server Process Overview
+
+```mermaid
+flowchart TD
+A[Start Server] --> B[Load Configuration]
+B --> C[Connect to API]
+C --> D[Run Application]
+```
