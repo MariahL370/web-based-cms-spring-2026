@@ -11,6 +11,9 @@ tags: [hr, onboarding]
 Welcome to the team! This handbook introduces employees to company policies, workplace expectations, and available resources.
 The diagram below shows the basic onboarding and workplace expectations.
 
+## Onboarding Process
+
+This diagram shows the steps a new employee follows, from joining the company to completing onboarding tasks and continuing daily work.
 ```mermaid
 flowchart TD;
     A[New Employee Joins] --> B[Read Employee Handbook]
