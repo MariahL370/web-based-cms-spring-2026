@@ -29,7 +29,7 @@ Acme Cloud includes several tools designed to support teams and developers:
 
 Acme Cloud offers several pricing plans based on storage and usage needs.
 
-The chart below provides a quick visual breakdown of our pricing tiers.
+This chart shows the distribution of customers across Basic, Pro, and Enterprise pricing tiers.
 
 ```mermaid
 pie showData
