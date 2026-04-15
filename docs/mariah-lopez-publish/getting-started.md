@@ -16,7 +16,7 @@ Welcome! This site provides everything you need to get started at Acme Corp, inc
 |--------|------------|
 | Company Overview | Learn about Acme Corp’s mission, services, and pricing |
 | Employee Handbook | Understand workplace policies, expectations, and guidelines |
-| Technical Documentation | Set up and manage the development environment |
+| Server Configuration | Set up and manage the development environment |
 
 ## What You’ll Find
 
