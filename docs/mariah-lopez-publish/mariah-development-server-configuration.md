@@ -52,7 +52,7 @@ The server will start using the configuration settings listed above.
 **Requirements:** Node.js version 14 or higher.
 
 ## Server Process Overview
-
+The diagram below shows the steps to take when processing the server.  
 ```mermaid
 flowchart TD
 A[Start Server] --> B[Load Configuration]
