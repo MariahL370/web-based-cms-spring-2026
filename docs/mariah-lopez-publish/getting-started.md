@@ -14,9 +14,9 @@ Welcome! This site provides everything you need to get started at Acme Corp, inc
 
 | Section | Description |
 |--------|------------|
-| [Company Overview](./company-overview) | Learn about Acme Corp’s mission, services, and pricing |
-| [Employee Handbook](./employee-handbook) | Understand workplace policies, expectations, and guidelines |
-| [Technical Documentation](./mariah-development-server-configuration) | Set up and manage the development environment |
+| Company Overview | Learn about Acme Corp’s mission, services, and pricing |
+| Employee Handbook | Understand workplace policies, expectations, and guidelines |
+| Technical Documentation | Set up and manage the development environment |
 
 ## What You’ll Find
 
