@@ -12,9 +12,11 @@ Welcome! This site provides everything you need to get started at Acme Corp, inc
 
 ## Start Here
 
-- [Company Overview](mariah-lopez-publish/company-overview.md)
-- [Employee Handbook](mariah-lopez-publish/employee-handbook.md)
-- [Technical Documentation](mariah-lopez-publish/mariah-development-server-configuration.md)
+| Section | Description |
+|--------|------------|
+| [Company Overview](./company-overview) | Learn about Acme Corp’s mission, services, and pricing |
+| [Employee Handbook](./employee-handbook) | Understand workplace policies, expectations, and guidelines |
+| [Technical Documentation](./mariah-development-server-configuration) | Set up and manage the development environment |
 
 ## What You’ll Find
 
